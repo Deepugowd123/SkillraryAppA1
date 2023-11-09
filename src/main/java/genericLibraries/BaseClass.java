@@ -9,6 +9,8 @@ import pomPages.LoginPage;
 import pomPages.UsersPage;
 import pomPages.WelcomePage;
 
+//testscript is success
+
 public class BaseClass {
 	//@BeforeSuites
 	//@BeforeTest
